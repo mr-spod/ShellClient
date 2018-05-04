@@ -1,0 +1,6 @@
+framework module ShellClient {
+  umbrella header "ShellClient.h"
+
+  export *
+  module * { export * }
+}

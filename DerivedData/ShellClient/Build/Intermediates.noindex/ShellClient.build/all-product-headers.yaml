@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/seanodonnell/development/ios/ShellClient/DerivedData/ShellClient/Build/Products/Debug-iphonesimulator/ShellClient.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ShellClient-Swift.h",
+          'external-contents': "/Users/seanodonnell/development/ios/ShellClient/DerivedData/ShellClient/Build/Products/Debug-iphonesimulator/ShellClient.framework/Headers/ShellClient-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ShellClient.h",
+          'external-contents': "/Users/seanodonnell/development/ios/ShellClient/ShellClient/ShellClient.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/seanodonnell/development/ios/ShellClient/DerivedData/ShellClient/Build/Products/Debug-iphonesimulator/ShellClient.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/seanodonnell/development/ios/ShellClient/DerivedData/ShellClient/Build/Intermediates.noindex/ShellClient.build/Debug-iphonesimulator/ShellClient.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
